@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645276224 source:d:\Área de trabalho\ws-codeblocks\problema_somaimpares\main.c
+	<stdio.h>
+	<stdlib.h>
+
