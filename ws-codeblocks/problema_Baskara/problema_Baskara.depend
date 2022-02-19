@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645267772 source:d:\Área de trabalho\ws-codeblocks\problema_baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
